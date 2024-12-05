@@ -4,24 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d1b9fe012b7be652",
+        "id": "eb80dcd0bbe69d30",
         "type": "tabs",
         "children": [
           {
-            "id": "66de53fe34f9c5ec",
+            "id": "20b90ff3c3002821",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Excalidraw/Diagram-web-app.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "excalidraw-icon",
+              "title": "Diagram-web-app.excalidraw"
             }
           }
         ]
@@ -80,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ee605424da01a5c9",
@@ -96,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Excalidraw/Diagram-web-app.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Diagram-web-app.excalidraw"
             }
           },
           {
@@ -163,15 +158,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "github-sync:Sync with Remote": false
+      "media-extended:Open media": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66de53fe34f9c5ec",
+  "active": "20b90ff3c3002821",
   "lastOpenFiles": [
+    "Excalidraw/Diagram-web-app.excalidraw.md",
+    "Welcome.md",
+    "create a link.md",
+    "Daily/2024-12-05.md",
+    "Daily",
+    "Excalidraw/Diagram-web-app.excalidraw",
     "Excalidraw/Drawing 2024-12-05 17.43.35.excalidraw.md",
     "Untitled.canvas",
-    "Excalidraw",
-    "Welcome.md"
+    "Excalidraw"
   ]
 }

@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eb80dcd0bbe69d30",
+        "id": "8c86f686956fe898",
         "type": "tabs",
         "children": [
           {
-            "id": "20b90ff3c3002821",
+            "id": "3ef4fd4cf6f4f865",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Diagram-web-app.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Diagram-web-app.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -110,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
@@ -136,14 +133,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,12 +158,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20b90ff3c3002821",
+  "active": "3ef4fd4cf6f4f865",
   "lastOpenFiles": [
+    "Media Note - BELI iPHONE KW YANG HARGANYA MURAH 20X LIPAT, TAPI MIRIP BANGET! - iPhone 15 Pro Versi Tiruan.md",
     "Excalidraw/Diagram-web-app.excalidraw.md",
+    "README.md",
+    "Daily/2024-12-05.md",
+    "Daily/2024-12-06.md",
+    "Important",
+    "Archive/2024/12",
+    "Archive/2024",
+    "Archive",
+    "Excalidraw/Diagram-database-deletion.excalidraw.md",
     "Welcome.md",
     "create a link.md",
-    "Daily/2024-12-05.md",
     "Daily",
     "Excalidraw/Diagram-web-app.excalidraw",
     "Excalidraw/Drawing 2024-12-05 17.43.35.excalidraw.md",
